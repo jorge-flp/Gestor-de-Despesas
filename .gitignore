@@ -1,0 +1,29 @@
+# Diretórios de build
+/target/
+/build/
+
+# Arquivos de configuração da IDE
+/.idea/
+/.vscode/
+/*.iml
+
+# Logs
+*.log
+
+# Arquivos temporários do sistema
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos do Windows e OneDrive
+*.lnk
+
+/target
+/.idea
+/.vscode
+*.iml
+*.log
+*.class
+.DS_Store
