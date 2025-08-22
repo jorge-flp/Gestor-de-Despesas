@@ -1,5 +1,8 @@
 package com.GestordeDespesasPessoais.demo.model;
 
+import jakarta.persistence.*;
+import lombok.*;
+
 public class Usuario {
     private String nome;
     private String email;
